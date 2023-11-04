@@ -8,8 +8,8 @@
 image: maven:4.0.0
 
 pipelines:
-  default:
-    - parallel:
+  branches:
+     master:
       - step:
           name: Build and Test
           caches:
