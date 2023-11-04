@@ -1,0 +1,45 @@
+11-10-2023 18:00:53.940 [main] INFO  c.e.demo.SpringElkExampleApplication.logStarting - Starting SpringElkExampleApplication using Java 17.0.5 on DESKTOP-OMQ2424 with PID 12064 (C:\Users\User\eclipse-workspace\SpringELKExample\target\classes started by User in C:\Users\User\eclipse-workspace\SpringELKExample)
+11-10-2023 18:00:53.947 [main] INFO  c.e.demo.SpringElkExampleApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+11-10-2023 18:00:56.335 [main] INFO  c.e.demo.SpringElkExampleApplication.logStarted - Started SpringElkExampleApplication in 3.286 seconds (JVM running for 5.083)
+11-10-2023 18:05:14.397 [main] INFO  c.e.demo.SpringElkExampleApplication.logStarting - Starting SpringElkExampleApplication using Java 17.0.5 on DESKTOP-OMQ2424 with PID 16240 (C:\Users\User\eclipse-workspace\SpringELKExample\target\classes started by User in C:\Users\User\eclipse-workspace\SpringELKExample)
+11-10-2023 18:05:14.403 [main] INFO  c.e.demo.SpringElkExampleApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+11-10-2023 18:05:17.028 [main] INFO  c.e.demo.SpringElkExampleApplication.logStarted - Started SpringElkExampleApplication in 3.493 seconds (JVM running for 5.118)
+11-10-2023 18:05:21.959 [http-nio-8080-exec-2] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:05:21.960 [http-nio-8080-exec-2] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 18:05:43.261 [http-nio-8080-exec-3] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:05:43.261 [http-nio-8080-exec-3] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 18:06:03.524 [http-nio-8080-exec-4] INFO  c.e.d.controller.ElasticController.helloWorld - Inside Hello World Function
+11-10-2023 18:06:03.526 [http-nio-8080-exec-4] INFO  c.e.d.controller.ElasticController.helloWorld - Response => Hello World! Wed Oct 11 18:06:03 WAT 2023
+11-10-2023 18:06:03.567 [http-nio-8080-exec-5] INFO  c.e.d.controller.ElasticController.helloWorld - Inside Hello World Function
+11-10-2023 18:06:03.568 [http-nio-8080-exec-5] INFO  c.e.d.controller.ElasticController.helloWorld - Response => Hello World! Wed Oct 11 18:06:03 WAT 2023
+11-10-2023 18:09:55.728 [http-nio-8080-exec-7] INFO  c.e.d.controller.ElasticController.helloWorld - Inside Hello World Function
+11-10-2023 18:09:55.729 [http-nio-8080-exec-7] INFO  c.e.d.controller.ElasticController.helloWorld - Response => Hello World! Wed Oct 11 18:09:55 WAT 2023
+11-10-2023 18:10:02.922 [http-nio-8080-exec-9] INFO  c.e.d.controller.ElasticController.helloWorld - Inside Hello World Function
+11-10-2023 18:10:02.922 [http-nio-8080-exec-9] INFO  c.e.d.controller.ElasticController.helloWorld - Response => Hello World! Wed Oct 11 18:10:02 WAT 2023
+11-10-2023 18:10:31.425 [http-nio-8080-exec-10] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:10:31.426 [http-nio-8080-exec-10] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 18:13:03.999 [http-nio-8080-exec-3] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:13:04.000 [http-nio-8080-exec-3] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 18:13:21.927 [http-nio-8080-exec-4] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:13:21.927 [http-nio-8080-exec-4] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 18:14:27.573 [http-nio-8080-exec-8] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:14:27.574 [http-nio-8080-exec-8] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 18:18:35.600 [http-nio-8080-exec-10] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:18:35.600 [http-nio-8080-exec-10] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 18:19:07.176 [http-nio-8080-exec-1] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:19:07.177 [http-nio-8080-exec-1] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 18:22:44.028 [http-nio-8080-exec-3] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:22:44.049 [http-nio-8080-exec-3] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 18:23:16.594 [http-nio-8080-exec-5] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 18:23:16.597 [http-nio-8080-exec-5] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 19:05:36.397 [http-nio-8080-exec-7] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 19:05:36.614 [http-nio-8080-exec-7] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 19:06:15.931 [http-nio-8080-exec-9] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 19:06:15.976 [http-nio-8080-exec-9] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 19:07:09.053 [http-nio-8080-exec-10] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 19:07:09.054 [http-nio-8080-exec-10] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+11-10-2023 19:18:35.067 [http-nio-8080-exec-4] INFO  c.e.d.controller.ElasticController.getFood - Inside Food Detail Function
+11-10-2023 19:18:35.067 [http-nio-8080-exec-4] INFO  c.example.demo.controller.ELKService.getFoodDetails - getting food services
+12-10-2023 10:09:42.629 [main] INFO  c.e.demo.SpringElkExampleApplication.logStarting - Starting SpringElkExampleApplication using Java 17.0.5 on DESKTOP-OMQ2424 with PID 4280 (C:\Users\User\eclipse-workspace\SpringELKExample\target\classes started by User in C:\Users\User\eclipse-workspace\SpringELKExample)
+12-10-2023 10:09:42.656 [main] INFO  c.e.demo.SpringElkExampleApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+12-10-2023 10:09:45.433 [main] INFO  c.e.demo.SpringElkExampleApplication.logStarted - Started SpringElkExampleApplication in 3.446 seconds (JVM running for 7.642)
