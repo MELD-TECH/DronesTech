@@ -5,11 +5,11 @@
 
 # Prerequisites: pom.xml and appropriate project structure should exist in the repository.
 
-image: maven:4.0.0
+image: maven:3.9.5
 
 pipelines:
-  default:
-    - parallel:
+  branches:
+     master:
       - step:
           name: Build and Test
           caches:
