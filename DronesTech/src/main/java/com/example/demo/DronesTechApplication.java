@@ -1,13 +1,16 @@
-package com.example;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+
 @SpringBootApplication
-public class SpringReactWebApplication {
+public class DronesTechApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringReactWebApplication.class, args);
+		SpringApplication.run(DronesTechApplication.class, args);
+		
 	}
 
 }
