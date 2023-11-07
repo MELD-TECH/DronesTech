@@ -4,7 +4,10 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                bat 'mvn clean install'
+            
+            echo 'maven clean install completed'
+            
+                bat 'mvn -f DronesTech/pom.xml clean install'
             }
         }
     }
