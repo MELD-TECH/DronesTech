@@ -9,9 +9,18 @@ pipeline {
             
                 bat 'mvn -f DronesTech/pom.xml clean install'
                 
-                timeout(time: 2, unit: "MINUTES") {
+
+
+            }
+        }
+        
+        stage('deploy') {
+                    steps {   
+       
+                
+    //            timeout(time: 2, unit: "MINUTES") {
                             input message: "Deploy to production?", ok: "Yes"
-                        }
+     //                   }
 
             }
         }
