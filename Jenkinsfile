@@ -7,7 +7,7 @@ pipeline {
             
             echo 'maven clean install completed'
             
-                bat 'mvn -f DronesTech/pom.xml clean install'
+                bat 'mvn -f pom.xml clean install'
                 
 
 
